@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# WebNav网址导航
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+技术栈：Nuxt3 + TailwindCSS
 
 ## Setup
 
